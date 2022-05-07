@@ -28,4 +28,4 @@ This api allows:
 * Maybe explore another data store ways to use like SQL.
 
 # Disclaimer
-* All the data used for the testing of the developed app was false
+* All the data used for the testing of the developed app was false.
